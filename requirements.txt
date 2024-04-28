@@ -1,0 +1,5 @@
+fastapi==0.96.0
+easyocr==1.7.1
+opencv-python==4.9.0.80
+opencv-python-headless==4.8.0.74
+numpy==1.26.4
